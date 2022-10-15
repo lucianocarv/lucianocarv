@@ -1,4 +1,4 @@
-### Olá!! Seja bem-vindo(a), Luciano por aqui!👋
+### Olá! Eu sou o Luciano e estudo desenvolvimento FullStack JavaScript!👋
 
 <div align="left">
   <a href="https://github.com/lucianocarv">
