@@ -1,4 +1,4 @@
-### Developing personal projects with JavaScript and TypeScript, using ReactJS for the front-end and NodeJs for the back-end. Learning devops with Linux and Google Cloud (I really like using Google Maps APIs)!
+### Developing personal projects with JavaScript and TypeScript, using ReactJS for the front-end and NodeJs for the back-end. Learning devops with Linux and Google Cloud (I really like using Google Maps APIs). I want to learn the Go language and more about DevOps, using AWS, Kubernets, Docker, etc.
 
 <div align="left">
   <a href="https://github.com/lucianocarv">
